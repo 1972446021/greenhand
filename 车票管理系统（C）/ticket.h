@@ -1,0 +1,2 @@
+void buyticket();
+void refundticket(); 

@@ -1,0 +1,2 @@
+void administer();
+void tourist();
